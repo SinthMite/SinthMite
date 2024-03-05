@@ -1,4 +1,5 @@
-# 👋 Hi, I’m Serenfant 
+
+![github-header-image](https://github.com/SinthMite/SinthMite/assets/65990456/3b35c222-1c0b-47e1-9f6f-0620a41a890a)
 - 💞️ I’m interested in collaborating on projects that are not focused on attention-mining and not ad-based
 - 🌳 [LinkedIn](https://www.linkedin.com/in/serenfant-setoute-24707210b/))
 
