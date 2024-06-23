@@ -11,7 +11,7 @@
 
 - 👯 I’m looking to collaborate on **Projects needing some front end support**
 
-- 👨‍💻 All of my projects are available at [SerenfantSetoute.com](SerenfantSetoute.com)
+- 👨‍💻 All of my projects are available at [serenfantsetoute.com](serenfantsetoute.com)
 
 - 💬 Ask me about **React, or Css**
 
